@@ -1,0 +1,10 @@
+.header_img{
+    height: 12rem;
+}
+
+input{
+    border-radius: 10px;
+    width: 40%;
+    border: 1px solid blue;
+    padding: .5rem;
+}
